@@ -1,0 +1,8 @@
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.exe.config
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.exe
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\bin\Debug\SumGenerator.pdb
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.csprojAssemblyReference.cache
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.csproj.CoreCompileInputs.cache
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.exe
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\obj\Debug\SumGenerator.pdb
+C:\Users\umer.siddiqui\source\repos\SumGenerator\SumGenerator\bin\Debug\Input\InputFile.txt
